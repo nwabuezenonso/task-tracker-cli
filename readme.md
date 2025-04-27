@@ -31,7 +31,7 @@ It helps you track your tasks easily directly from you terminal
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/task-cli-tracker.git
+git clone https://github.com/nwabuezenonso/task-tracker-cli.git
 
 # Navigate into the project
 cd task-cli-tracker
