@@ -5,7 +5,7 @@ It helps you track your tasks easily directly from you terminal
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new tasks
 - Update existing tasks
@@ -17,7 +17,7 @@ It helps you track your tasks easily directly from you terminal
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Node.js
 - TypeScript
@@ -27,7 +27,7 @@ It helps you track your tasks easily directly from you terminal
 
 ---
 
-## 🧰 Installation
+## Installation
 
 ```bash
 # Clone the repository
